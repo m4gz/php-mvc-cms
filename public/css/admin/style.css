@@ -1,0 +1,30 @@
+* 	{
+	margin : 0px;
+	padding : 0px;
+}
+
+h3	{
+	color: #AAA;	
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+	
+td 	{
+	text-align: center;
+	background-color: #FFFAC5;
+	padding: 0px 4px 0px 4px;
+	border: 1px solid gray;
+}
+	
+td a {
+	color: #666;
+	text-decoration: none;
+}
+	
+button {
+	padding: 8px;
+	border: none;
+	background-color: rgb(218, 234, 255);
+	color: black;
+	font-weight: bold;
+}
