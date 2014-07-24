@@ -1,5 +1,8 @@
 # PHP-MVC-CMS
-Took example from
+
+BEFORE USING CONFING URL OF WEBSITE AND SQL DB in config.php file.
+
+Taken basic example from
 
 https://github.com/panique/php-mvc
 
